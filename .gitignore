@@ -1,0 +1,7 @@
+__pycache__/
+tts/
+history.ai.json
+jobs.sqlite
+telegram.token
+credentials.json
+allowed_users.json

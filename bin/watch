@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+watchexec --debounce 3sec --clear --restart --watch src bin/start

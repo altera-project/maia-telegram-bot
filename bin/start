@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#cleanup_processes() {
+#   pkill -P $$
+#}
+#trap 'cleanup_processes; exit 1' INT EXIT
+#python3 gcal.py &
+python3 src/bot.py
+#wait
